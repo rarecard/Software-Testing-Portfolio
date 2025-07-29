@@ -1,7 +1,5 @@
-# Software-Testing-Portfolio
-软件测试展示集
 # 🔍 Software Testing Portfolio 
-[![GitHub](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/racecard) 
+[![GitHub](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/rarecard) 
 
 ## 🚀 核心能力展示
 - ✨ **用例设计**：边界值/等价类/场景法  
